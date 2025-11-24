@@ -1,0 +1,530 @@
+[
+  {
+    "nome": "TeamViewer",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta robusta para acesso remoto, transferência de arquivos e suporte técnico.",
+    "link": "https://www.teamviewer.com/pt-br",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "AnyDesk",
+    "tipo": "Acesso Remoto",
+    "descricao": "Software leve com baixa latência e excelente desempenho.",
+    "link": "https://anydesk.com/pt",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Chrome Remote Desktop",
+    "tipo": "Acesso Remoto",
+    "descricao": "Acesso remoto gratuito via navegador Google Chrome.",
+    "link": "https://remotedesktop.google.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "UltraVNC",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta gratuita baseada em VNC para controle remoto.",
+    "link": "https://www.uvnc.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "RustDesk",
+    "tipo": "Acesso Remoto",
+    "descricao": "Alternativa open-source com possibilidade de servidor próprio.",
+    "link": "https://rustdesk.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Zoho Assist",
+    "tipo": "Acesso Remoto",
+    "descricao": "Solução em nuvem para suporte remoto e diagnóstico.",
+    "link": "https://www.zoho.com/assist/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "LogMeIn Rescue",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta premium para suporte remoto corporativo.",
+    "link": "https://www.logmeinrescue.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Android", "iOS"]
+  },
+  {
+    "nome": "Splashtop",
+    "tipo": "Acesso Remoto",
+    "descricao": "Acesso remoto de alto desempenho voltado para empresas.",
+    "link": "https://www.splashtop.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "DameWare Remote Support",
+    "tipo": "Administração Remota",
+    "descricao": "Ferramenta para administração de sistemas e suporte remoto seguro.",
+    "link": "https://www.solarwinds.com/dameware-remote-support",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "Remote Utilities",
+    "tipo": "Acesso Remoto",
+    "descricao": "Pacote de controle remoto com múltiplos modos de conexão.",
+    "link": "https://www.remoteutilities.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "mRemoteNG",
+    "tipo": "Gerenciamento de Conexões",
+    "descricao": "Gerenciador de conexões RDP, SSH, Telnet, VNC e outros.",
+    "link": "https://mremoteng.org/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "PuTTY",
+    "tipo": "SSH/Telnet",
+    "descricao": "Cliente SSH para administração de servidores.",
+    "link": "https://www.putty.org/",
+    "sistemas_compativeis": ["Windows", "Linux", "macOS"]
+  },
+  {
+    "nome": "Remote Desktop Connection (RDP)",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta nativa do Windows para conexões RDP.",
+    "link": "https://learn.microsoft.com/windows-server/remote/remote-desktop-services/",
+    "sistemas_compativeis": ["Windows", "macOS", "Android", "iOS"]
+  },
+  {
+    "nome": "OpenSSH",
+    "tipo": "SSH",
+    "descricao": "Ferramenta open-source para conexões SSH seguras.",
+    "link": "https://www.openssh.com/",
+    "sistemas_compativeis": ["Windows", "Linux", "macOS"]
+  },
+  {
+    "nome": "TigerVNC",
+    "tipo": "Acesso Remoto",
+    "descricao": "Implementação moderna do protocolo VNC.",
+    "link": "https://tigervnc.org/",
+    "sistemas_compativeis": ["Windows", "Linux", "macOS"]
+  },
+  {
+    "nome": "NoMachine",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta de acesso remoto com baixa latência e ótima qualidade gráfica.",
+    "link": "https://www.nomachine.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Parsec",
+    "tipo": "Acesso Remoto",
+    "descricao": "Plataforma de streaming remoto com baixa latência.",
+    "link": "https://parsec.app/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android"]
+  },
+  {
+    "nome": "Ammyy Admin",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta leve de suporte remoto sem instalação.",
+    "link": "https://www.ammyy.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "GoToAssist",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta corporativa para suporte técnico remoto.",
+    "link": "https://www.goto.com/assist",
+    "sistemas_compativeis": ["Windows", "macOS", "Android", "iOS"]
+  },
+  {
+    "nome": "ConnectWise Control",
+    "tipo": "Acesso Remoto",
+    "descricao": "Ferramenta profissional para suporte remoto e helpdesk.",
+    "link": "https://www.connectwise.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "ScreenConnect",
+    "tipo": "Acesso Remoto",
+    "descricao": "Versão anterior do ConnectWise Control.",
+    "link": "https://www.connectwise.com/software/control",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "MeshCentral",
+    "tipo": "Administração Remota",
+    "descricao": "Plataforma open-source para gerenciamento remoto via navegador.",
+    "link": "https://meshcentral.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "Guacamole",
+    "tipo": "Acesso Remoto",
+    "descricao": "Acesso remoto via navegador sem necessidade de cliente.",
+    "link": "https://guacamole.apache.org/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "Termius",
+    "tipo": "SSH",
+    "descricao": "Cliente SSH moderno com sincronização multi-plataforma.",
+    "link": "https://termius.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Remmina",
+    "tipo": "Acesso Remoto",
+    "descricao": "Cliente remoto para Linux com suporte a RDP, VNC e SSH.",
+    "link": "https://remmina.org/",
+    "sistemas_compativeis": ["Linux"]
+  },
+  {
+    "nome": "KRDC",
+    "tipo": "Acesso Remoto",
+    "descricao": "Cliente RDP e VNC para ambientes KDE.",
+    "link": "https://apps.kde.org/krdc/",
+    "sistemas_compativeis": ["Linux"]
+  },
+  {
+    "nome": "HelpDeskZ",
+    "tipo": "Helpdesk",
+    "descricao": "Sistema gratuito de helpdesk baseado em tickets.",
+    "link": "https://helpdeskz.com/",
+    "sistemas_compativeis": ["Windows", "Linux"]
+  },
+  {
+    "nome": "Freshdesk",
+    "tipo": "Helpdesk",
+    "descricao": "Plataforma completa de atendimento ao cliente e TI.",
+    "link": "https://freshdesk.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "Spiceworks Help Desk",
+    "tipo": "Helpdesk",
+    "descricao": "Helpdesk gratuito com inventário integrado.",
+    "link": "https://www.spiceworks.com/",
+    "sistemas_compativeis": ["Windows", "Linux"]
+  },
+  {
+    "nome": "Zabbix",
+    "tipo": "Monitoramento",
+    "descricao": "Ferramenta open-source para monitoramento completo de TI.",
+    "link": "https://www.zabbix.com/",
+    "sistemas_compativeis": ["Windows", "Linux", "macOS"]
+  },  
+  {
+    "nome": "CrystalDiskInfo",
+    "tipo": "Diagnóstico de Disco",
+    "descricao": "Exibe informações SMART e saúde de HDDs e SSDs.",
+    "link": "https://crystalmark.info/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "CrystalDiskMark",
+    "tipo": "Benchmark de Disco",
+    "descricao": "Ferramenta para medir velocidade de leitura/escrita de HDD/SSD.",
+    "link": "https://crystalmark.info/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "HD Tune",
+    "tipo": "Diagnóstico de Disco",
+    "descricao": "Ferramenta para testar saúde, velocidade e erros de discos.",
+    "link": "http://www.hdtune.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "Hard Disk Sentinel",
+    "tipo": "Diagnóstico de Disco",
+    "descricao": "Sistema completo de monitoramento e previsão de falhas.",
+    "link": "https://www.hdsentinel.com/",
+    "sistemas_compativeis": ["Windows", "Linux"]
+  },
+  {
+    "nome": "GParted",
+    "tipo": "Particionamento",
+    "descricao": "Editor de partições gratuito e poderoso.",
+    "link": "https://gparted.org/",
+    "sistemas_compativeis": ["Linux", "Windows (LiveCD)", "macOS (Live)"]
+  },
+  {
+    "nome": "AOMEI Partition Assistant",
+    "tipo": "Gerenciamento de Disco",
+    "descricao": "Ferramenta completa para particionar e otimizar discos.",
+    "link": "https://www.aomeitech.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "FreeFileSync",
+    "tipo": "Automatização",
+    "descricao": "Ferramenta para sincronização automática de arquivos e pastas.",
+    "link": "https://freefilesync.org/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "Robocopy",
+    "tipo": "Automatização",
+    "descricao": "Ferramenta nativa do Windows para cópia avançada de arquivos.",
+    "link": "https://learn.microsoft.com/windows-server/administration/windows-commands/robocopy",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "SyncBack",
+    "tipo": "Automatização",
+    "descricao": "Backup e sincronização automatizados.",
+    "link": "https://www.2brightsparks.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "Driver Booster",
+    "tipo": "Diagnóstico Geral",
+    "descricao": "Analisa, identifica e atualiza drivers automaticamente.",
+    "link": "https://www.iobit.com/driver-booster.php",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "CPU-Z",
+    "tipo": "Diagnóstico de Hardware",
+    "descricao": "Exibe informações detalhadas da CPU, memória e placa-mãe.",
+    "link": "https://www.cpuid.com/softwares/cpu-z.html",
+    "sistemas_compativeis": ["Windows", "Android"]
+  },
+  {
+    "nome": "GPU-Z",
+    "tipo": "Diagnóstico de Hardware",
+    "descricao": "Monitora informações completas da GPU.",
+    "link": "https://www.techpowerup.com/gpuz/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "HWMonitor",
+    "tipo": "Monitoramento",
+    "descricao": "Monitora temperaturas, tensões e desempenho.",
+    "link": "https://www.cpuid.com/softwares/hwmonitor.html",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "PingPlotter",
+    "tipo": "Diagnóstico de Rede",
+    "descricao": "Ferramenta para identificar perda de pacotes e latência.",
+    "link": "https://www.pingplotter.com/",
+    "sistemas_compativeis": ["Windows", "macOS"]
+  },
+  {
+    "nome": "Wireshark",
+    "tipo": "Análise de Rede",
+    "descricao": "Sniffer de pacotes profissional para análise profunda de rede.",
+    "link": "https://www.wireshark.org/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "Advanced IP Scanner",
+    "tipo": "Varredura de Rede",
+    "descricao": "Scan rápido para encontrar dispositivos na rede.",
+    "link": "https://www.advanced-ip-scanner.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "Angry IP Scanner",
+    "tipo": "Varredura de Rede",
+    "descricao": "Scanner de IP portável e multiplataforma.",
+    "link": "https://angryip.org/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "NetLimiter",
+    "tipo": "Controle de Rede",
+    "descricao": "Permite controlar e limitar o uso de banda por aplicativo.",
+    "link": "https://www.netlimiter.com/",
+    "sistemas_compativeis": ["Windows"]
+  },
+  {
+    "nome": "GlassWire",
+    "tipo": "Monitoramento de Rede",
+    "descricao": "Firewall visual com monitoramento de tráfego em tempo real.",
+    "link": "https://www.glasswire.com/",
+    "sistemas_compativeis": ["Windows", "Android"]
+  },
+  {
+    "nome": "SpeedFan",
+    "tipo": "Monitoramento",
+    "descricao": "Monitora temperaturas e controla ventoinhas.",
+    "link": "http://www.almico.com/speedfan.php",
+    "sistemas_compativeis": ["Windows"]
+  }
+  ,
+  {
+    "nome": "Microsoft Intune",
+    "descricao": "Serviço baseado em nuvem para gerenciamento de mobilidade empresarial (EMM) e gerenciamento de dispositivos móveis (MDM).",
+    "tipo": "Gerenciamento de Dispositivos/MDM",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/microsoft-intune",
+    "sistemas_compativeis": ["Windows", "macOS", "Android", "iOS", "iPadOS"]
+  },
+  {
+    "nome": "Slack",
+    "descricao": "Plataforma de comunicação empresarial que organiza conversas em canais, usada para coordenação de suporte e escalonamento.",
+    "tipo": "Colaboração/Comunicação",
+    "link": "https://slack.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Jira Service Management",
+    "descricao": "Software de Service Desk e gerenciamento de serviços de TI (ITSM) da Atlassian para atendimento ao cliente e incidentes.",
+    "tipo": "ITSM/Service Desk",
+    "link": "https://www.atlassian.com/software/jira/service-management",
+    "sistemas_compativeis": ["Web", "Cloud", "Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "BitLocker",
+    "descricao": "Recurso de criptografia de volume total nativo do Windows para proteger dados em unidades de disco fixas e removíveis.",
+    "tipo": "Criptografia/Segurança",
+    "link": "https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview",
+    "sistemas_compativeis": ["Windows Pro", "Windows Enterprise", "Windows Server", "PowerShell"
+    ]
+  },
+  {
+    "nome": "Veeam Backup & Replication",
+    "descricao": "Solução robusta para backup, recuperação e replicação de máquinas virtuais, dados e workloads em nuvem.",
+    "tipo": "Backup/Disaster Recovery",
+    "link": "https://www.veeam.com/",
+    "sistemas_compativeis": ["Windows Server", "Linux", "VMware", "Hyper-V", "Cloud"]
+  },
+  {
+    "nome": "Nagios Core",
+    "descricao": "Ferramenta de monitoramento de código aberto para sistemas, redes e infraestrutura, alertando sobre problemas.",
+    "tipo": "Monitoramento de Rede/Sistema",
+    "link": "https://www.nagios.org/",
+    "sistemas_compativeis": ["Linux", "Unix", "CentOS", "Debian"]
+  },
+  {
+    "nome": "M365 Admin Center",
+    "descricao": "Portal centralizado para gerenciar usuários, licenças, serviços e configurações de segurança no ecossistema Microsoft 365.",
+    "tipo": "Gerenciamento de Cloud/Licenças",
+    "link": "https://admin.microsoft.com/",
+    "sistemas_compativeis": ["Web Browser", "Windows", "macOS", "Cloud"]
+  },
+  {
+    "nome": "VMware vSphere",
+    "descricao": "Plataforma de virtualização líder que inclui ESXi e vCenter Server para gerenciar infraestrutura virtual em data centers.",
+    "tipo": "Virtualização/Infraestrutura",
+    "link": "https://www.vmware.com/products/vsphere.html",
+    "sistemas_compativeis": ["ESXi", "Windows Server", "Linux", "vCenter"]
+  },
+  {
+    "nome": "PowerShell",
+    "descricao": "Shell de linha de comando e linguagem de script orientado a objetos para automação e administração avançada de sistemas.",
+    "tipo": "Scripting/Administração de Sistemas",
+    "link": "https://docs.microsoft.com/en-us/powershell/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Azure", "Cloud"]
+  },
+  {
+    "nome": "Process Explorer",
+    "descricao": "Utilitário avançado da Microsoft Sysinternals para monitorar processos do sistema, identificando handles e DLLs abertas.",
+    "tipo": "Diagnóstico/Monitoramento de Processos",
+    "link": "https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer",
+    "sistemas_compativeis": ["Windows", "Windows Server", "WinPE"]
+  },
+  {
+    "nome": "FileZilla",
+    "descricao": "Cliente FTP, FTPS e SFTP gratuito e de código aberto, utilizado para transferência segura de arquivos entre sistemas locais e remotos.",
+    "tipo": "Transferência de Arquivos/Protocolo de Rede",
+    "link": "https://filezilla-project.org/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "FreeBSD"]
+  },
+  {
+    "nome": "OBS Studio",
+    "descricao": "Software gratuito e de código aberto para gravação de tela, útil na criação de tutoriais de suporte técnico e solução de problemas.",
+    "tipo": "Captura de Tela/Gravação de Vídeo",
+    "link": "https://obsproject.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "nome": "KeePass Password Safe",
+    "descricao": "Gerenciador de senhas de código aberto que armazena credenciais de forma segura em um banco de dados criptografado local.",
+    "tipo": "Gerenciamento de Senhas/Segurança",
+    "link": "https://keepass.info/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplicações dentro de contêineres, facilitando a portabilidade de ambientes.",
+    "tipo": "Contentorização/DevOps",
+    "link": "https://www.docker.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Cloud"]
+  },
+  {
+    "nome": "Microsoft Teams",
+    "descricao": "Plataforma unificada de comunicação, combinando chat, videoconferência e compartilhamento de arquivos e tela.",
+    "tipo": "Colaboração/Videoconferência",
+    "link": "https://www.microsoft.com/en-us/microsoft-teams",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  },
+  {
+    "nome": "Check Disk (chkdsk)",
+    "descricao": "Utilitário de comando nativo do Windows para verificar e reparar erros lógicos e setores defeituosos no sistema de arquivos.",
+    "tipo": "Diagnóstico de Disco/Utilitário de OS",
+    "link": "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk",
+    "sistemas_compativeis": ["Windows", "Windows Server", "Prompt de Comando", "Windows PE"]
+  },
+  {
+    "nome": "pfSense",
+    "descricao": "Distribuição de firewall e roteador de código aberto baseada em FreeBSD, usada para segurança de rede avançada.",
+    "tipo": "Firewall/Gerenciamento de Rede",
+    "link": "https://www.pfsense.org/",
+    "sistemas_compativeis": ["FreeBSD", "Hardware Dedicado", "Virtualização"]
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Ferramenta de automação de código aberto para provisionamento de software, gerenciamento de configuração e implantação.",
+    "tipo": "Automação/Configuração",
+    "link": "https://www.ansible.com/",
+    "sistemas_compativeis": ["Linux", "Unix", "Windows (via WinRM)", "macOS", "Cloud"]
+  },
+  {
+    "nome": "Microsoft Azure Portal",
+    "descricao": "Console baseado na web para gerenciar todos os recursos e serviços implantados na infraestrutura de nuvem Azure.",
+    "tipo": "Gerenciamento de Cloud/IaaS",
+    "link": "https://portal.azure.com/",
+    "sistemas_compativeis": ["Web Browser", "Azure CLI", "PowerShell", "Cloud"]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído, essencial para gerenciar scripts de automação, código e documentação técnica.",
+    "tipo": "Controle de Versão/Desenvolvimento",
+    "link": "https://git-scm.com/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Cloud (GitHub/GitLab)"]
+  },
+  {
+    "nome": "Nmap (Network Mapper)",
+    "descricao": "Utilitário de código aberto para descoberta de rede, mapeamento de portas e auditoria de segurança.",
+    "tipo": "Análise de Rede/Segurança",
+    "link": "https://nmap.org/",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "FreeBSD", "Solaris"]
+  },
+  {
+    "nome": "MobaXterm",
+    "descricao": "Ferramenta avançada para computação remota que consolida terminal SSH, cliente RDP, VNC e SFTP em um único aplicativo.",
+    "tipo": "Acesso Remoto/Terminal SSH",
+    "link": "https://mobaxterm.mobatek.net/",
+    "sistemas_compativeis": ["Windows", "Cygwin", "Linux (via Wine)"]
+  },
+  {
+    "nome": "Trello",
+    "descricao": "Ferramenta de gerenciamento de projetos baseada no conceito Kanban, usada para rastrear tarefas de suporte e projetos internos de TI.",
+    "tipo": "Gerenciamento de Projetos/Kanban",
+    "link": "https://trello.com/",
+    "sistemas_compativeis": ["Web Browser", "Android", "iOS", "Windows", "macOS"]
+  },
+  {
+    "nome": "Rufus",
+    "descricao": "Utilitário que ajuda a formatar e criar drives USB inicializáveis (bootáveis) a partir de imagens ISO de sistemas operacionais.",
+    "tipo": "Utilitário de Instalação/Boot",
+    "link": "https://rufus.ie/",
+    "sistemas_compativeis": ["Windows", "Windows PE", "UEFI", "BIOS"]
+  },
+  {
+    "nome": "Microsoft Edge",
+    "descricao": "Navegador web baseado em Chromium, usado para acessar documentação, portais de suporte e serviços em nuvem.",
+    "tipo": "Navegador Web/Acesso a Serviços",
+    "link": "https://www.microsoft.com/en-us/edge",
+    "sistemas_compativeis": ["Windows", "macOS", "Linux", "Android", "iOS"]
+  }
+]
+
